@@ -1,0 +1,22 @@
+@import url(fonts.css);
+body {
+	font-family: IRANSans !important;
+	font-weight: 300;
+    background-color: #c3c3c3;
+	direction: rtl;
+	margin: 0;
+}
+
+.book-detail__btn {
+    display: block;
+    width: 200px;
+    margin-right: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
