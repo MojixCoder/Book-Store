@@ -7,16 +7,19 @@ body {
 	margin: 0;
 }
 
-.book-detail__btn {
+.book-card {
     display: block;
-    width: 200px;
-    margin-right: auto;
+    text-decoration: none;
+}
+
+.book-card:hover {
+    cursor: pointer;
 }
 
 .invisible {
-    visibility: hidden;
+    display: none;
 }
 
 .visible {
-    visibility: visible;
+    display: block;
 }
